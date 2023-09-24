@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **ASP.NET**
 - 📫 How to reach me: **cetin.yazici2525@gmail.com**
 
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/6137922/screenshots/15162516/media/bc22317c4f871eb002d08e8d471e6592.gif"/>
+<img align="center" alt="Coding" width="800" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
