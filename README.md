@@ -31,4 +31,4 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cetinyazici&show_icons=true&locale=en&layout=compact" alt="cetinyazici" />
    </p><br>
 
-   ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/YOUR_USERNAME/cetinyazici/blob/output/github-contribution-grid-snake.gif)
