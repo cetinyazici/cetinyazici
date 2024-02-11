@@ -31,7 +31,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cetinyazici&show_icons=true&locale=en&layout=compact" alt="cetinyazici" />
    </p><br>
 
-![snake gif](https://github.com/cetinyazici/cetinyazici/blob/output/github-contribution-grid-snake.gif)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cetinyazici/cetinyazici/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cetinyazici/cetinyazici/output/github-contribution-grid-snake.svg">
