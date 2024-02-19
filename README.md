@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋, I'm Çetin</h1>
 <h3 align="center">
  Merhaba! 
-Ben Çetin Yazıcı, Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme ve teknolojiye duyduğum tutkuyla kendimi yapmış olduğum kişisel projelerim ile ve eğitimim doğrultusunda C#, .Net ve MSSQL noktasında geliştirdim/geliştiriyorum. Ekip çalışmasına yatkın, sorun çözme becerilerine sahip ve yeni teknolojilere açık birisiyim. Kariyer hedeflerim doğrultusunda öğrenmeye ve büyümeye devam etmek benim için önemlidir. Bağlantı kurmaktan ve deneyimlerimizi paylaşmaktan her zaman mutluluk duyarım.
+Ben Çetin Yazıcı, Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme ve teknolojiye duyduğum tutkuyla yapmış olduğum kişisel projelerim ile ve eğitimim doğrultusunda C#, .Net ve MSSQL noktasında geliştirdim/geliştiriyorum. Ekip çalışmasına yatkın, sorun çözme becerilerine sahip ve yeni teknolojilere açık birisiyim. Kariyer hedeflerim doğrultusunda öğrenmeye ve büyümeye devam etmek benim için önemlidir. Bağlantı kurmaktan ve deneyimlerimizi paylaşmaktan her zaman mutluluk duyarım.
 </h3>
 
 - 🌱 Şu anda **ASP.NET** öğreniyorum.
