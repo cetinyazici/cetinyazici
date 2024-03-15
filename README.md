@@ -11,10 +11,6 @@ I am Çetin Yazıcı, a Computer Engineering student. I developed/I am developin
 
 - 🌱 I’m currently learning **Asp.Net Core**
 
-- 👯 I’m looking to collaborate on **Asp.Net Core Projects**
-
-- 🤝 I’m looking for help with **.Net**
-
 - ❓ Ask me a question
 
 - 📫 Contact with me via <a href="mailto:cetin.yazici2525@gmail.com">
