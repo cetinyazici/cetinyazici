@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/cetinyazici/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" /></a>
 
-<br/>
 
 ## ⚙ Languages and Tools 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
