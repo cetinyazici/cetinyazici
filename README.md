@@ -4,10 +4,6 @@
 <h2 align="center">Hi 👋, I'm Çetin Yazıcı</h2>
 <h2 align="center" >Jr. Software Developer | Computer Engineer 👨‍💻</h2>
 
-- 🔭 I’m currently working on **.Net**
-
-- 🌱 I’m currently learning **Asp.Net Core**
-
 - 📫 Contact with me via <a href="mailto:cetin.yazici2525@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  /></a>
 
